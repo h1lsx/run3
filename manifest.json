@@ -1,0 +1,13 @@
+{
+  "name": "Run 3",
+  "short_name": "Run 3",
+  "start_url": ".",
+  "display": "fullscreen",
+  "background_color": "#000000",
+  "description": "Game",
+  "icons": [{
+    "src": "icon.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
